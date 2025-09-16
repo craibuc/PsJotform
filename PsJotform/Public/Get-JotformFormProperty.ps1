@@ -1,3 +1,7 @@
+<#
+.LINK
+https://api.jotform.com/docs/#form-id-properties
+#>
 function Get-JotformFormProperty {
     param (
         [Parameter(Mandatory)]

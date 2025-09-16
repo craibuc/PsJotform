@@ -1,3 +1,7 @@
+<#
+.LINK
+https://api.jotform.com/docs/#form-id-submissions
+#>
 function Get-JotformFormSubmission {
     param (
         [Parameter(Mandatory)]
